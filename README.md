@@ -5,8 +5,9 @@
 
 Este proyecto utiliza información publicada que proporciona información nominal de los afiliados activos al Seguro Integral de Salud (SIS) que tienen al menos un diagnóstico definitivo de Diabetes Mellitus (DM). Se incluye también información respecto de si ha recibido atenciones en los últimos tres meses según la fecha de corte de los afiliados activos.
 La granularidad de esta información está al nivel de afiliado, cada registro representa un afiliado activo al SIS con diagnóstico de Diabetes Mellitus. La evaluación para determinar si un afiliado ha tenido un diagnóstico de DM se ha realizado sobre las atenciones desde el año 2018 a la fecha de corte considerando los diagnósticos definitivos.
+Este proyecto busca, utilizando la ciencia de datos, identificar características que sean influyentes y puedan minorizar los gastos de hospitalizaciones en pacientes con DM, revisando cómo optimizar el servicio existente.
 
-##                                                                                    MVP
+## MVP
 
 # Alcance del MVP
 
