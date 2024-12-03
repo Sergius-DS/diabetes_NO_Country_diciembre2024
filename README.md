@@ -31,7 +31,7 @@ El presente proyecto trata de resolver los siguientes problemas:
   
   📌 **Optimización de recursos en el sistema de salud** para determinar los costos asociados a la atención de pacientes diabéticos y sus hospitalizaciones; evaluar si ciertos perfiles de pacientes (edad, grupo etario,sexo, ubicación) requieren más recursos o tienen más hospitalizaciones.
   
-  📌 **Disparidades geográficas y demográficas** para detectar diferencias en la calidad o frecuencia de atención según departamento, provincia o distrito; identificar grupos demográficos (edad, sexo) con mayor riesgo o menos acceso a servicios.
+  📌 **Disparidades geográficas y demográficas** para detectar diferencias en la calidad o frecuencia de atención según departamento o provincia; identificar grupos demográficos (edad, sexo) con mayor riesgo o menos acceso a servicios.
   
   📌 **Evaluación de la carga de la enfermedad en el sistema** para analizar la frecuencia de hospitalizaciones y días de hospitalización para entender la gravedad promedio de los casos; medir el impacto económico de la diabetes mellitus en el sistema de salud.
 
