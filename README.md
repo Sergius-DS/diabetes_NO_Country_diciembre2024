@@ -44,7 +44,7 @@ El presente proyecto trata de resolver los siguientes problemas:
 | **Canva**|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Canva_Logo.svg/250px-Canva_Logo.svg.png" width="100">| Plataforma de diseño gráfico y composición de imágenes.|
 | **Python**|<img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="50">| Lenguaje de programación utilizado para análisis de datos y desarrollo de aplicaciones.|
 | **GitHub**|<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" width="100">| Plataforma de desarrollo colaborativo para proyectos de software.|
-| **Draw.io**|<img src="https://www.google.com/imgres?q=draw.io&imgurl=https%3A%2F%2Fstore-images.s-microsoft.com%2Fimage%2Fapps.14142.2ec57164-ba5b-42ee-8253-ade72ca74c8d.e8efbcc8-e27f-4682-9321-eb111eb3bc68.950e1c22-0dd9-4079-807b-145ecdb6df9c.png&imgrefurl=https%3A%2F%2Fappsource.microsoft.com%2Fcs%2Fproduct%2Foffice%2FWA200000113%3Fexp%3Dkyyw%26tab%3DReviews&docid=sBY941175yA2rM&tbnid=45QRAsfdNz4DdM&vet=12ahUKEwiJ_cz7zYuKAxXFHLkGHa4SKFcQM3oECDgQAA..i&w=300&h=300&hcb=2&itg=1&ved=2ahUKEwiJ_cz7zYuKAxXFHLkGHa4SKFcQM3oECDgQAA" width="100">| Software de diagramas en línea gratuito para crear diagramas de flujo, diagramas de procesos, organigramas, UML, ER y diagramas de red..|
+| **Draw.io**|<img src="https://store-images.s-microsoft.com/image/apps.14142.2ec57164-ba5b-42ee-8253-ade72ca74c8d.e8efbcc8-e27f-4682-9321-eb111eb3bc68.950e1c22-0dd9-4079-807b-145ecdb6df9c.png" width="100">| Software de diagramas en línea gratuito para crear diagramas de flujo, diagramas de procesos, organigramas, UML, ER y diagramas de red..|
 
 # Metodología de gestión de proyectos 
 
