@@ -41,6 +41,7 @@ El presente proyecto trata de resolver los siguientes problemas:
 |----------------------|-----------------------------------------|----------------------------------------------|
 | **Pandas**   |      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" width="100">   | Librería de Python para manipulación y análisis de datos.       |
 |**Matplotlib**|<img src="https://matplotlib.org/_static/logo_light.svg" width="100">| Librería usada para la generación de gráficos en dos dimensiones.|
+|**Seaborn**|<img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="100"> | Librería de Python creada sobre matplotlib, usada para crear gráficos estadísticos
 | **Jupyter**|<img src="https://jupyter.org/assets/homepage/main-logo.svg" width="65">| Software gratuito, estándares abiertos y servicios web para informática interactiva en todos los lenguajes de programación.|
 | **Visual Studio Code**|<img src="https://static-00.iconduck.com/assets.00/visual-studio-code-icon-512x506-2fdb6ar6.png" width="70">| Editor de código fuente.|
 | **Colaboratory con Python**|<img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="60">| Plataforma de Google basada en Jupyter Notebooks, junto con las librerías de Python para análisis de datos como Pandas y Matplotlib.|
@@ -49,6 +50,7 @@ El presente proyecto trata de resolver los siguientes problemas:
 | **Python**|<img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="50">| Lenguaje de programación utilizado para análisis de datos y desarrollo de aplicaciones.|
 | **GitHub**|<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" width="100">| Plataforma de desarrollo colaborativo para proyectos de software.|
 | **Draw.io**|<img src="https://store-images.s-microsoft.com/image/apps.14142.2ec57164-ba5b-42ee-8253-ade72ca74c8d.e8efbcc8-e27f-4682-9321-eb111eb3bc68.950e1c22-0dd9-4079-807b-145ecdb6df9c.png" width="100">| Software de diagramas en línea gratuito para crear diagramas de flujo, diagramas de procesos, organigramas, UML, ER y diagramas de red.|
+| **Google Drive**|<img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Google_Drive_icon_%282020%29.svg" width="100"> | Servicio de alojamiento y sincronización de archivos.|
 
 ## Metodología de gestión de proyectos 
 
@@ -70,9 +72,9 @@ El presente proyecto trata de resolver los siguientes problemas:
 
 ## Contenido del proyecto 
 
-- 📊 **Dashboard :** Visualización interactiva de los datos financieros en Power BI. [Dashboard]()
+- 📊 **Dashboard :** Visualización interactiva de los datos en Power BI. [Dashboard]()
 - 🤖 **Deploy:** Modelo de Machine Learning. [Deploy]()
-- 📂 **Datasets:** Acceso al dataset utilizado para el análisis financiero. Enlace al dataset. [Datasets]()
+- 📂 **Datasets:** Acceso al dataset utilizado para el MVP. Enlace al dataset. [Datasets]()
 
 ## Integrantes del equipo.
 
