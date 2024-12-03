@@ -26,10 +26,10 @@ Este proyecto busca, utilizando la ciencia de datos, identificar característica
 ## Alcance del proyecto
 
 El presente proyecto trata de resolver los siguientes problemas:
-- **Gestión de la salud de pacientes diabéticos** para identificar patrones de comorbilidades como obesidad, hipertensión o problemas de salud mental; analizar el impacto de estas comorbilidades en el uso de servicios de salud.
-- **Optimización de recursos en el sistema de salud** para determinar los costos asociados a la atención de pacientes diabéticos y sus hospitalizaciones; evaluar si ciertos perfiles de pacientes (edad, grupo etario,sexo, ubicación) requieren más recursos o tienen más hospitalizaciones.
-- **Disparidades geográficas y demográficas** para detectar diferencias en la calidad o frecuencia de atención según departamento, provincia o distrito; identificar grupos demográficos (edad, sexo) con mayor riesgo o menos acceso a servicios.
-- **Evaluación de la carga de la enfermedad en el sistema** para analizar la frecuencia de hospitalizaciones y días de hospitalización para entender la gravedad promedio de los casos; medir el impacto económico de la diabetes mellitus en el sistema de salud.
+  📌 **Gestión de la salud de pacientes diabéticos** para identificar patrones de comorbilidades como obesidad, hipertensión o problemas de salud mental; analizar el impacto de estas comorbilidades en el uso de servicios de salud.
+  📌 **Optimización de recursos en el sistema de salud** para determinar los costos asociados a la atención de pacientes diabéticos y sus hospitalizaciones; evaluar si ciertos perfiles de pacientes (edad, grupo etario,sexo, ubicación) requieren más recursos o tienen más hospitalizaciones.
+  📌 **Disparidades geográficas y demográficas** para detectar diferencias en la calidad o frecuencia de atención según departamento, provincia o distrito; identificar grupos demográficos (edad, sexo) con mayor riesgo o menos acceso a servicios.
+  📌 **Evaluación de la carga de la enfermedad en el sistema** para analizar la frecuencia de hospitalizaciones y días de hospitalización para entender la gravedad promedio de los casos; medir el impacto económico de la diabetes mellitus en el sistema de salud.
 
 ## Stack de tecnologías y herramientas
 
@@ -49,7 +49,9 @@ El presente proyecto trata de resolver los siguientes problemas:
 ## Metodología de gestión de proyectos 
 
 ➡️ Para gestionar este proyecto utilizamos **Kanban**, un método de gestión de proyectos que ayuda a los equipos a visualizar su trabajo, mejorar la eficiencia y encontrar un equilibrio entre las tareas y la disponibilidad de los miembros. Asimismo, implementamos un **Brief**, un documento que establece los objetivos y la dirección de un proyecto, y que guía a los miembros del equipo para que trabajen de manera eficiente.
+
 ➡️ Para la gestión, organizamos las fases del proyecto en cuatro sprints semanales.
+
 ➡️ También utilizamos **Google Meet** para las daily meeting y las reuniones con el Team Leader, como así también **Slack** y **WhatsApp** para la comunicación diaria entre los miembros del equipo.
 
 ## Etapas del proyecto
