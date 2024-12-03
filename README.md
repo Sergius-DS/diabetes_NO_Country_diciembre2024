@@ -26,6 +26,7 @@ Este proyecto busca, utilizando la ciencia de datos, identificar característica
 ## Alcance del proyecto
 
 El presente proyecto trata de resolver los siguientes problemas:
+
   📌 **Gestión de la salud de pacientes diabéticos** para identificar patrones de comorbilidades como obesidad, hipertensión o problemas de salud mental; analizar el impacto de estas comorbilidades en el uso de servicios de salud.
   
   📌 **Optimización de recursos en el sistema de salud** para determinar los costos asociados a la atención de pacientes diabéticos y sus hospitalizaciones; evaluar si ciertos perfiles de pacientes (edad, grupo etario,sexo, ubicación) requieren más recursos o tienen más hospitalizaciones.
@@ -83,7 +84,7 @@ El presente proyecto trata de resolver los siguientes problemas:
 |                               |
 | <img width="60" height="60" src="" alt="Nombre" /> | Arelys Acevedo | Data Analyst |  [![Github](https://skillicons.dev/icons?i=github)](https://github.com/Sergius-DS) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sergio-rivera-bustamante-6642b836/)                         |
 |                               |
-| <img width="60" height="60" src="https://github.com/Mathiroldan.png" alt="Mathiroldan" /> | Mathias Roldán | Data Analyst |  [![Github](https://skillicons.dev/icons?i=github)](https://github.com/Mathiroldan) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sergio-rivera-bustamante-6642b836/)                         |
+| <img width="60" height="60" src="https://github.com/Mathiroldan.png" alt="Mathiroldan" /> | Mathias Roldán | Data Analyst |  [![Github](https://skillicons.dev/icons?i=github)](https://github.com/Mathiroldan) [![Linkedin](https://www.linkedin.com/in/mathias-roldan)                         |
 |                               |
-| <img width="60" height="60" src="" alt="Nombre" /> | Augusto García | Data Analyst |  [![Github](https://skillicons.dev/icons?i=github)](https://github.com/Sergius-DS) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sergio-rivera-bustamante-6642b836/)                         |
+| <img width="60" height="60" src="" alt="Nombre" /> | Augusto García | Data Analyst |  [![Github](https://skillicons.dev/icons?i=github)](https://github.com/Sergius-DS) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://)                         |
 |                               |
