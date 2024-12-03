@@ -52,9 +52,11 @@ El presente proyecto trata de resolver los siguientes problemas:
 
 ## Metodología de gestión de proyectos 
 
-➡️ Para gestionar este proyecto utilizamos **Kanban**, un método de gestión de proyectos que ayuda a los equipos a visualizar su trabajo, mejorar la eficiencia y encontrar un equilibrio entre las tareas y la disponibilidad de los miembros. Asimismo, implementamos un **Brief**, un documento que establece los objetivos y la dirección de un proyecto, y que guía a los miembros del equipo para que trabajen de manera eficiente.
+➡️ Para gestionar este proyecto utilizamos **Kanban**, un método de gestión de proyectos que ayuda a los equipos a visualizar su trabajo, mejorar la eficiencia y encontrar un equilibrio entre las tareas y la disponibilidad de los miembros. 
 
-➡️ Para la gestión, organizamos las fases del proyecto en cuatro sprints semanales.
+➡️ Asimismo, implementamos un **Brief**, un documento que establece los objetivos y la dirección de un proyecto, y que guía a los miembros del equipo para que trabajen de manera eficiente.
+
+➡️ Para la gestión, organizamos las fases del proyecto en cuatro **sprints semanales**.
 
 ➡️ También utilizamos **Google Meet** para las daily meeting y las reuniones con el Team Leader, como así también **Slack** y **WhatsApp** para la comunicación diaria entre los miembros del equipo.
 
@@ -84,7 +86,7 @@ El presente proyecto trata de resolver los siguientes problemas:
 |                               |
 | <img width="60" height="60" src="" alt="Nombre" /> | Arelys Acevedo | Data Analyst |  [![Github](https://skillicons.dev/icons?i=github)](https://github.com/Sergius-DS) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sergio-rivera-bustamante-6642b836/)                         |
 |                               |
-| <img width="60" height="60" src="https://github.com/Mathiroldan.png" alt="Mathiroldan" /> | Mathias Roldán | Data Analyst |  [![Github](https://skillicons.dev/icons?i=github)](https://github.com/Mathiroldan) [![Linkedin](https://www.linkedin.com/in/mathias-roldan)                         |
+| <img width="60" height="60" src="https://github.com/Mathiroldan.png" alt="Mathiroldan" /> | Mathias Roldán | Data Analyst |  [![Github](https://skillicons.dev/icons?i=github)](https://github.com/Mathiroldan) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mathias-roldan)                         |
 |                               |
 | <img width="60" height="60" src="" alt="Nombre" /> | Augusto García | Data Analyst |  [![Github](https://skillicons.dev/icons?i=github)](https://github.com/Sergius-DS) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://)                         |
 |                               |
