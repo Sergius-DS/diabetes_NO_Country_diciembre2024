@@ -2,10 +2,6 @@
 #                                Analisis de afiliados activos en el Seguro Integral de Salud (SIS) con diagnóstico de Diabetes Mellitus
 
 # <h1 align="center">_SD_ANALYTICS_</h1>
-<p align="center">
-  <img src="images/SD_analytics_2_4.JPG"  height="400">
-<p align="center">
-
 
 ## Índice
 
@@ -70,7 +66,7 @@ El presente proyecto trata de resolver los siguientes problemas:
 |                               |
 | <img width="60" height="60" src="" alt="Nombre" /> | Arelys Acevedo | Data Analyst |  [![Github](https://skillicons.dev/icons?i=github)](https://github.com/Sergius-DS) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sergio-rivera-bustamante-6642b836/)                         |
 |                               |
-| <img width="60" height="60" src="" alt="Nombre" /> | Mathias Roldán | Data Analyst |  [![Github](https://skillicons.dev/icons?i=github)](https://github.com/Sergius-DS) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sergio-rivera-bustamante-6642b836/)                         |
+| <img width="60" height="60" src="https://github.com/Mathiroldan.png" alt="Mathiroldan" /> | Mathias Roldán | Data Analyst |  [![Github](https://skillicons.dev/icons?i=github)](https://github.com/Sergius-DS) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sergio-rivera-bustamante-6642b836/)                         |
 |                               |
 | <img width="60" height="60" src="" alt="Nombre" /> | Augusto García | Data Analyst |  [![Github](https://skillicons.dev/icons?i=github)](https://github.com/Sergius-DS) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sergio-rivera-bustamante-6642b836/)                         |
 |                               |
