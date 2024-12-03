@@ -1,6 +1,24 @@
 # s19-01-m-data-bi
 #                                Analisis de afiliados activos en el Seguro Integral de Salud (SIS) con diagnóstico de Diabetes Mellitus
 
+# <h1 align="center">_SD_ANALYTICS_</h1>
+<p align="center">
+  <img src="images/SD_analytics_2_4.JPG"  height="400">
+<p align="center">
+
+
+## Índice
+
+1. [Descripción del proyecto](#Descripción-del-proyecto)
+2. [MVP](#MVP)
+3. [Alcance del MVP](#Alcance-del-MVP)
+4. [Stack de tecnologías y herramientas](#Stack-de-tecnologías-y-herramientas)
+5. [Metodología de gestión de proyectos](#Metodología-de-gestión-de-proyectos)
+6. [Etapas del proyecto](#Etapas-del-proyecto)
+7. [Contenido del proyecto](#Contenido-del-proyecto)
+8. [Integrantes del equipo](#Integrantes-del-equipo)
+
+
 ## Descripción del proyecto
 
 Este proyecto utiliza información publicada que proporciona información nominal de los afiliados activos al Seguro Integral de Salud (SIS) que tienen al menos un diagnóstico definitivo de Diabetes Mellitus (DM). Se incluye también información respecto de si ha recibido atenciones en los últimos tres meses según la fecha de corte de los afiliados activos.
@@ -42,9 +60,17 @@ El presente proyecto trata de resolver los siguientes problemas:
 
 # Integrantes del equipo.
 
-- Arelys Acevedo
-- Augusto García
-- Juan Campos
-- Mathias Roldan
-- Raul Almao
-- Sergio Rivera
+|                         | Nombre   |   Rol                    | GitHub & LinkedIn                                                                                                                                                                                          |
+| ----------------------------- | -------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img width="60" height="60" src="https://github.com/Sergius-DS.png" alt="Sergius-DS" /> | Sergio Rivera Bustamante | Data Scientist | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/Sergius-DS) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sergio-rivera-bustamante-6642b836/)                         |
+|                               |
+| <img width="60" height="60" src="" alt="Nombre" /> | Juan Campos | Data Scientist |  [![Github](https://skillicons.dev/icons?i=github)](https://github.com/Sergius-DS) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sergio-rivera-bustamante-6642b836/)                         |  
+|                               |
+| <img width="60" height="60" src="" alt="Nombre" /> | Raúl Almao | Data Scientist |  [![Github](https://skillicons.dev/icons?i=github)](https://github.com/Sergius-DS) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sergio-rivera-bustamante-6642b836/)                         |
+|                               |
+| <img width="60" height="60" src="" alt="Nombre" /> | Arelys Acevedo | Data Analyst |  [![Github](https://skillicons.dev/icons?i=github)](https://github.com/Sergius-DS) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sergio-rivera-bustamante-6642b836/)                         |
+|                               |
+| <img width="60" height="60" src="" alt="Nombre" /> | Mathias Roldán | Data Analyst |  [![Github](https://skillicons.dev/icons?i=github)](https://github.com/Sergius-DS) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sergio-rivera-bustamante-6642b836/)                         |
+|                               |
+| <img width="60" height="60" src="" alt="Nombre" /> | Augusto García | Data Analyst |  [![Github](https://skillicons.dev/icons?i=github)](https://github.com/Sergius-DS) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sergio-rivera-bustamante-6642b836/)                         |
+|                               |
