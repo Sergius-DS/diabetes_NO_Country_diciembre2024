@@ -90,5 +90,5 @@ El presente proyecto trata de resolver los siguientes problemas:
 |                               |
 | <img width="60" height="60" src="https://github.com/Mathiroldan.png" alt="Mathiroldan" /> | Mathias Roldán | Data Analyst |  [![Github](https://skillicons.dev/icons?i=github)](https://github.com/Mathiroldan) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mathias-roldan)                         |
 |                               |
-| <img width="60" height="60" src="" alt="Nombre" /> | Augusto García | Data Analyst |  [![Github](https://skillicons.dev/icons?i=github)](https://github.com/Sergius-DS) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://)                         |
+| <img width="60" height="60" src="(https://github.com/augustogh29.png)" alt="augustogh29" /> | Augusto García | Data Analyst |  [![Github](https://skillicons.dev/icons?i=github)]((https://github.com/augustogh29)) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.https://www.linkedin.com/in/augusto-garcia-a03737234/)                         |
 |                               |
