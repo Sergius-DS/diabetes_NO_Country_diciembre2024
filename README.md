@@ -3,7 +3,9 @@
 
 # <h1 align="center"> HealthScope Analytics </h1>
 
-<p align=center><img src=https://imgur.com/ohe5XCS width="300"><p> 
+<p align=center>
+ <img width="" height="600" src="https://imgur.com/ohe5XCS" alt="logo empresa">
+<p/>
 
 ## Índice
 
