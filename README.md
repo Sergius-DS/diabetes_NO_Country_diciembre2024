@@ -70,15 +70,22 @@ El presente proyecto trata de resolver los siguientes problemas:
 
 ## Etapas del proyecto
 
-### 1) **Preparación:** 
+### 1) **Problemas, preguntas y recolección de datos:** 
 
-### 2) **Analisis de datos:**
+### 2) **Limpieza de datos:**
+Se realizó una limpieza del dataset con Power Query; también se creó el diagrama entidad relación dentro de Power BI, tomando como referencia un diseño previo hecho en Draw.io.
 
-### 3) **Ciencia de datos:**
+### 3) **Análisis exploratorio de datos:** 
+
+### 4) **Visualización:** 
+Primeramente se realizó un mockup en Canva para establecer una idea y criterio general acerca de la creación de los gráficos y la disposición de los mismos en el tablero. Luego, se crearon las visualizaciones en Power BI.
+
+### 5) **Presentación:**
+Finalmente, se presentó el MVP en el Demo Day del día 12/12/2024 utilizando PowerPoint para la presentación del tablero y haciendo una demostración en vivo del deploy, utilizando Streamlit.
 
 ## Contenido del proyecto 
 
-- 📊 **Dashboard :** Visualización interactiva de los datos en Power BI. [Dashboard](./Dashboard)
+- 📊 **Dashboard:** Visualización interactiva de los datos en Power BI. [Dashboard](./Dashboard)
 - 🤖 **Deploy:** Modelo de Machine Learning. [Deploy](https://hospitalizado-diabetes.streamlit.app/)
 - 📂 **Datasets:** Acceso al dataset utilizado para el MVP. Enlace al dataset. [Datasets](./Dataset)
 - 📑 **Presentación:** Presentación del proyecto en PowerPoint. Enlace a la presentación. [Presentación](./Presentación)
