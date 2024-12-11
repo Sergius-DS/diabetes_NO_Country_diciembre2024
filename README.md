@@ -1,7 +1,9 @@
 # s19-01-m-data-bi
 #                                Analisis de afiliados activos en el Seguro Integral de Salud (SIS) con diagnóstico de Diabetes Mellitus
 
-# <h1 align="center">_SD_ANALYTICS_</h1>
+# <h1 align="center"> HealthScope Analytics </h1>
+
+<p align=center><img src=https://imgur.com/ohe5XCS width="300"><p> 
 
 ## Índice
 
