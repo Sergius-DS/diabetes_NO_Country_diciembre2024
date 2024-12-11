@@ -74,7 +74,7 @@ El presente proyecto trata de resolver los siguientes problemas:
 
 ## Contenido del proyecto 
 
-- 📊 **Dashboard :** Visualización interactiva de los datos en Power BI. [Dashboard]()
+- 📊 **Dashboard :** Visualización interactiva de los datos en Power BI. [Dashboard](./Dashboard)
 - 🤖 **Deploy:** Modelo de Machine Learning. [Deploy](https://hospitalizado-diabetes.streamlit.app/)
 - 📂 **Datasets:** Acceso al dataset utilizado para el MVP. Enlace al dataset. [Datasets](./Dataset)
 - 📑 **Presentación:** Presentación del proyecto en PowerPoint. Enlace a la presentación. [Presentación](./Presentación)
