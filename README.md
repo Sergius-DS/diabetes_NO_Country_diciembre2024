@@ -85,7 +85,7 @@ En el Análisis Multivariado: se creó un gráfico de pares (pair plot) para vis
 ### 4) **Visualización:** 
 Primeramente se realizó un mockup en Canva para establecer una idea y criterio general acerca de la creación de los gráficos y la disposición de los mismos en el tablero. Luego, se crearon las visualizaciones en Power BI.
 
-### 6) **Entrenamiento y Evaluación del Modelo Predictivo:**
+### 5) **Entrenamiento y Evaluación del Modelo Predictivo:**
 Desarrollamos un modelo predictivo del riesgo de hospitalización mediante aprendizaje automático, centrándonos en la selección de características, el equilibrio de datos y el escalamiento robusto.
 
 Probamos varios clasificadores y XGBoost superó a otros después de la optimización mediante RandomizedSearchCV.
