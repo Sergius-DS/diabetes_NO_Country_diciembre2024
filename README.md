@@ -70,7 +70,8 @@ El presente proyecto trata de resolver los siguientes problemas:
 
 ## Etapas del proyecto
 
-### 1) **Problemas, preguntas y recolección de datos:** 
+### 1) **Problemas y recolección de datos:** 
+Primeramente, se definió el dataset a utilizar, como así las problematicas a tratar con el mismo, detallados con anterioridad. 
 
 ### 2) **Limpieza de datos:**
 Se realizó una limpieza del dataset con Power Query; también se creó el diagrama entidad relación dentro de Power BI, tomando como referencia un diseño previo hecho en Draw.io.
@@ -83,7 +84,7 @@ En el Análisis Bivariado: se analizaron las relaciones entre las variables num�
 En el Análisis Multivariado: se creó un gráfico de pares (pair plot) para visualizar las relaciones entre las variables numéricas, se encontraron relaciones complejas entre las variables, lo que sugiere la necesidad de un modelo que pueda capturar estas interacciones.
 
 ### 4) **Visualización:** 
-Primeramente se realizó un mockup en Canva para establecer una idea y criterio general acerca de la creación de los gráficos y la disposición de los mismos en el tablero. Luego, se crearon las visualizaciones en Power BI.
+Se realizó un mockup en Canva para establecer una idea y criterio general acerca de la creación de los gráficos y la disposición de los mismos en el tablero. Luego, se crearon las visualizaciones en Power BI.
 
 ### 5) **Entrenamiento y Evaluación del Modelo Predictivo:**
 Desarrollamos un modelo predictivo del riesgo de hospitalización mediante aprendizaje automático, centrándonos en la selección de características, el equilibrio de datos y el escalamiento robusto.
