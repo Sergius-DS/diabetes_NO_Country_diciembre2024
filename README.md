@@ -85,7 +85,17 @@ En el Análisis Multivariado: se creó un gráfico de pares (pair plot) para vis
 ### 4) **Visualización:** 
 Primeramente se realizó un mockup en Canva para establecer una idea y criterio general acerca de la creación de los gráficos y la disposición de los mismos en el tablero. Luego, se crearon las visualizaciones en Power BI.
 
-### 5) **Presentación:**
+### 6) **Entrenamiento y Evaluación del Modelo Predictivo:**
+Desarrollamos un modelo predictivo del riesgo de hospitalización mediante aprendizaje automático, centrándonos en la selección de características, el equilibrio de datos y el escalamiento robusto.
+
+Probamos varios clasificadores y XGBoost superó a otros después de la optimización mediante RandomizedSearchCV.
+
+El modelo XGBoost final logró una puntuación ROC AUC casi perfecta de 0,992 y una precisión del 100 % en el conjunto de prueba.
+
+La validación cruzada garantizó la generalización del modelo y se siguieron las mejores prácticas para la reproducibilidad y el rendimiento.
+
+
+### 6) **Presentación:**
 Finalmente, se presentó el MVP en el Demo Day del día 12/12/2024 utilizando PowerPoint para la presentación del tablero y haciendo una demostración en vivo del deploy, utilizando Streamlit.
 
 ## Contenido del proyecto 
