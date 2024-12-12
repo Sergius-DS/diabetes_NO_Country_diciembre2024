@@ -76,6 +76,11 @@ El presente proyecto trata de resolver los siguientes problemas:
 Se realizó una limpieza del dataset con Power Query; también se creó el diagrama entidad relación dentro de Power BI, tomando como referencia un diseño previo hecho en Draw.io.
 
 ### 3) **Análisis exploratorio de datos:** 
+Se realizó un Análisis Univariado: se analizaron las distribuciones de las variables numéricas y categóricas, incluyendo la edad, el valor neto y el valor neto hospitalario, se encontraron distribuciones sesgadas y con outliers en algunas variables, lo que sugiere la necesidad de transformaciones o eliminación de outliers.
+
+En el Análisis Bivariado: se analizaron las relaciones entre las variables numéricas y categóricas, incluyendo la relación entre el valor neto hospitalario y el sexo, se crearon gráficos de barras apiladas y histogramas para visualizar las relaciones entre las variables.
+
+En el Análisis Multivariado: se creó un gráfico de pares (pair plot) para visualizar las relaciones entre las variables numéricas, se encontraron relaciones complejas entre las variables, lo que sugiere la necesidad de un modelo que pueda capturar estas interacciones.
 
 ### 4) **Visualización:** 
 Primeramente se realizó un mockup en Canva para establecer una idea y criterio general acerca de la creación de los gráficos y la disposición de los mismos en el tablero. Luego, se crearon las visualizaciones en Power BI.
