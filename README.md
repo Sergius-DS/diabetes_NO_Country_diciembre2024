@@ -90,7 +90,7 @@ Desarrollamos un modelo predictivo del riesgo de hospitalización mediante apren
 
 Probamos varios clasificadores y XGBoost superó a otros después de la optimización mediante RandomizedSearchCV.
 
-El modelo XGBoost final logró una puntuación ROC AUC casi perfecta de 0,992 y una precisión del 100 % en el conjunto de prueba.
+El modelo XGBoost final logró una puntuación ROC AUC casi perfecta de 0,992.
 
 La validación cruzada garantizó la generalización del modelo y se siguieron las mejores prácticas para la reproducibilidad y el rendimiento.
 
