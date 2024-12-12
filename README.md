@@ -115,7 +115,7 @@ Finalmente, se presentó el MVP en el Demo Day del día 12/12/2024 utilizando Po
 |                               |
 | <img width="60" height="60" src="" alt="Nombre" /> | Raúl Almao | Data Scientist |  [![Github](https://skillicons.dev/icons?i=github)](https://github.com/Sergius-DS) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sergio-rivera-bustamante-6642b836/)                         |
 |                               |
-| <img width="60" height="60" src="" alt="Nombre" /> | Arelys Acevedo | Data Analyst |  [![Github](https://skillicons.dev/icons?i=github)](https://github.com/Sergius-DS) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sergio-rivera-bustamante-6642b836/)                         |
+| <img width="60" height="60" src="./Dataset/woman.PNG" alt="Nombre" /> | Arelys Acevedo | Data Analyst |  [![Github](https://skillicons.dev/icons?i=github)](https://github.com/Sergius-DS) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sergio-rivera-bustamante-6642b836/)                         |
 |                               |
 | <img width="60" height="60" src="https://github.com/Mathiroldan.png" alt="Mathiroldan" /> | Mathias Roldán | Data Analyst |  [![Github](https://skillicons.dev/icons?i=github)](https://github.com/Mathiroldan) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mathias-roldan)                         |
 |                               |
