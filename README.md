@@ -101,7 +101,6 @@ Finalmente, se presentó el MVP en el Demo Day del día 12/12/2024 utilizando Po
 
 ## Contenido del proyecto 
 
-- 📊 **Dashboard:** Visualización interactiva de los datos en Power BI. [Dashboard](./Dashboard)
 - 🤖 **Deploy:** Modelo de Machine Learning. [Deploy](https://hospitalizado-diabetes.streamlit.app/)
 - 📂 **Datasets:** Acceso al dataset utilizado para el MVP. Enlace al dataset. [Datasets](./Dataset)
 - 📑 **Presentación:** Presentación del proyecto en PowerPoint. Enlace a la presentación. [Presentación](./Presentación)
