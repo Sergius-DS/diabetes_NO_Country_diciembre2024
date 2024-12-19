@@ -127,9 +127,9 @@ Finalmente, se presentó el MVP en el Demo Day del día 12/12/2024 utilizando Po
 |                               |
 | <img width="60" height="60" src="https://avatars.githubusercontent.com/u/67085586?v=4" alt="Nombre" /> | Juan Campos | Data Scientist |  [![Github](https://skillicons.dev/icons?i=github)](https://github.com/jumacaq) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jumacaq/)                         |  
 |                               |
-| <img width="60" height="60" src="./Dataset/men.png" alt="Nombre" /> | Raúl Almao | Data Scientist |  [![Github](https://skillicons.dev/icons?i=github)](https://github.com/) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/)                         |
+| <img width="60" height="60" src="./Imagenes/men.png" alt="Nombre" /> | Raúl Almao | Data Scientist |  [![Github](https://skillicons.dev/icons?i=github)](https://github.com/) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/)                         |
 |                               |
-| <img width="60" height="60" src="./Dataset/woman.png" alt="Nombre" /> | Arelys Acevedo | Data Analyst |  [![Github](https://skillicons.dev/icons?i=github)](https://github.com/) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/)                         |
+| <img width="60" height="60" src="./Imagenes/woman.png" alt="Nombre" /> | Arelys Acevedo | Data Analyst |  [![Github](https://skillicons.dev/icons?i=github)](https://github.com/) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/)                         |
 |                               |
 | <img width="60" height="60" src="https://github.com/Mathiroldan.png" alt="Mathiroldan" /> | Mathias Roldán | Data Analyst |  [![Github](https://skillicons.dev/icons?i=github)](https://github.com/Mathiroldan) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mathias-roldan)                         |
 |                               |
