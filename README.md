@@ -99,6 +99,16 @@ La validación cruzada garantizó la generalización del modelo y se siguieron l
 ### 6) **Presentación:**
 Finalmente, se presentó el MVP en el Demo Day del día 12/12/2024 utilizando PowerPoint para la presentación del tablero y haciendo una demostración en vivo del deploy, utilizando Streamlit.
 
+
+| Vista General Modelo Predictivo                                                                       | 
+| ----------------------------------------------------------------------------------------------- |
+| <img src="Dataset/vista_general.gif" alt="Interface Animation"  width="100%" /> |
+
+
+| Obteniendo Resultado Predicción Modelo Machine Learning                                                                     | 
+| ----------------------------------------------------------------------------------------------- |
+| <img src="Dataset/resultado_prediction.gif" alt="Back-End Animation"  width="100%"/> |
+
 ## Contenido del proyecto 
 
 - 🤖 **Deploy:** Modelo de Machine Learning. [Deploy](https://hospitalizado-diabetes.streamlit.app/)
