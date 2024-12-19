@@ -101,7 +101,7 @@ Finalmente, se presentó el MVP en el Demo Day del día 12/12/2024 utilizando Po
 
 | Vista General Dashboards Power BI                                                                       | 
 | ----------------------------------------------------------------------------------------------- |
-| <img src="Dataset/resultado_presentacion.gif" alt="Interface Animation"  width="100%" /> |
+| <img src="Imagenes/resultado_presentacion.gif" alt="Interface Animation"  width="100%" /> |
 
 
 | Vista General Modelo Predictivo                                                                       | 
