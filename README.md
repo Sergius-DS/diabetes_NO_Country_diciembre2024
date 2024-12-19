@@ -106,12 +106,12 @@ Finalmente, se presentó el MVP en el Demo Day del día 12/12/2024 utilizando Po
 
 | Vista General Modelo Predictivo                                                                       | 
 | ----------------------------------------------------------------------------------------------- |
-| <img src="Dataset/vista_general.gif" alt="Interface Animation"  width="100%" /> |
+| <img src="Imagenes/vista_general.gif" alt="Interface Animation"  width="100%" /> |
 
 
 | Obteniendo Resultado Predicción Modelo Machine Learning                                                                     | 
 | ----------------------------------------------------------------------------------------------- |
-| <img src="Dataset/resultado_prediction.gif" alt="Back-End Animation"  width="100%"/> |
+| <img src="Imagenes/resultado_prediction.gif" alt="Back-End Animation"  width="100%"/> |
 
 ## Contenido del proyecto 
 
